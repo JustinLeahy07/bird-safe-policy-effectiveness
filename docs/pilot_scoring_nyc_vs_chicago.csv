@@ -1,0 +1,25 @@
+jurisdiction,category,score,justification,source_file
+New York City (LL15),Applicability scope,2,Mandatory requirement applied to new buildings and certain alterations under DOB permitting; not limited to optional program universe.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Trigger clarity,2,Trigger is text-scoreable: projects filed on/after effective date; new buildings and alterations that include replacement of all exterior glazing.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Collision-risk zone definition,2,Explicit regulated vertical zone up to 75 feet above grade for bird-friendly materials requirements.,nyc_ny_ll15_2020_official_text_excerpt.md
+New York City (LL15),Glass/material performance standard,2,Uses an operational technical standard for “bird friendly material” (threat factor standard is implemented via guidance).,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Feature-hazard definitions,2,Defines hazards such as fly-through conditions and bird hazard installations to operationalize compliance.,nyc_ny_ll15_2020_official_text_excerpt.md
+New York City (LL15),Location-hazard definitions,0,No location/proximity-based hazard logic in the core structure (primarily height-based zone).,nyc_ny_ll15_2020_official_text_excerpt.md
+New York City (LL15),Acceptable treatment specificity,1,Guidance operationalizes bird-friendly materials, but treatment options are not framed as a fixed enumerated list inside the law text.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Lighting restrictions,0,No lighting requirements stated in LL15/DOB guidance structure for compliance.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Compliance documentation requirement,2,Compliance is tied to DOB plan/permit process with documentation expectations for showing bird-friendly materials.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Review gate strength,2,Clear permit-based review gate: compliance is checked through DOB permitting/filings.,nyc_ny_ll15_dob_guidance_excerpt.md
+New York City (LL15),Enforcement mechanism strength,1,Enforcement primarily through permit approval/violation architecture rather than a self-contained penalty schedule inside the section.,nyc_ny_ll15_2020_official_text_excerpt.md
+New York City (LL15),Exceptions/waivers breadth,1,Narrow applicability functions as an implicit carveout (e.g., partial glazing replacements), but explicit broad waivers are not central.,nyc_ny_ll15_dob_guidance_excerpt.md
+Chicago (SDP),Applicability scope,1,Applies to a limited universe of projects subject to DPD review/city assistance pathways; not a citywide building code mandate.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Trigger clarity,1,Trigger is defined by SDP applicability categories (project types/approvals) rather than universal construction triggers.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Collision-risk zone definition,0,Bird protection strategies do not hinge on a defined collision-risk zone like a height band/collision zone standard.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Glass/material performance standard,1,Provides strategy guidance/options but not a single quantified universal performance standard applied across all covered buildings.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Feature-hazard definitions,0,Does not rely on codified feature-hazard definitions as a core compliance driver.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Location-hazard definitions,0,No explicit location/proximity hazard designation is required for bird protection strategy selection.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Acceptable treatment specificity,1,Bird protection is addressed via strategy options (basic/enhanced), but not as a codified universal treatment rule.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Lighting restrictions,1,Lighting is handled as part of broader sustainability strategy context rather than mandatory bird-focused restrictions.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Compliance documentation requirement,2,SDP requires documentation for compliance and includes review/audit structure within the SDP process.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Review gate strength,1,Review gate exists through SDP compliance and eligibility, but it’s program-based rather than a citywide permit mandate.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Enforcement mechanism strength,1,Enforcement is primarily through eligibility/approval gatekeeping and documentation/audit rather than standalone penalties.,chicago_il_sdp_bird_protection_excerpt.md
+Chicago (SDP),Exceptions/waivers breadth,1,Menu-based structure creates functional carveouts because projects can meet requirements through other strategies.,chicago_il_sdp_bird_protection_excerpt.md
