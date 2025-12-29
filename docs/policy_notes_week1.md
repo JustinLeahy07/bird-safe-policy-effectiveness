@@ -18,11 +18,11 @@
 - **“Replace all exterior glazing” narrow trigger** — major renovations that replace only some glazing can avoid coverage — Example: nyc_ny_ll15_dob_guidance_excerpt.md
 - **Conditional participation / limited universe** — requirements apply only to projects in a specific approval/assistance pathway rather than universal building code coverage — Example: chicago_il_sdp_bird_protection_excerpt.md
 - **Points-menu voluntariness** — bird protection competes with other credits/strategies, so developers can meet requirements without choosing bird protection — Example: chicago_il_sdp_bird_protection_excerpt.md
-- **No explicit penalties in core SF code section** — if enforcement language is mainly “review-based,” deterrence depends on discretionary gatekeeping rather than clear penalties — Example: san_francisco_ca_planning_code_section_139_excerpt.md
+- **No standalone penalty section in SF §139 — compliance pressure comes through approval/permit gates rather than an explicit fine/penalty schedule in the section — Example: san_francisco_ca_planning_code_section_139_excerpt.md
 - **Implementation-document dependence** — key operational details live in a standards/design guide rather than the code text, creating ambiguity if documents diverge or change — Example: san_francisco_ca_bird_safe_standards_2011_excerpt.md
 
 ## Enforcement Mechanisms (3)
 
 - **DOB permit review gate (mandatory)** — compliance is enforced through permitting/plan review tied to construction documents — Example: nyc_ny_ll15_dob_guidance_excerpt.md
 - **Planning Department approval gate (mandatory when triggered)** — compliance reviewed during SF Planning approval for new construction/replacement facades that qualify as bird hazards — Example: san_francisco_ca_planning_code_section_139_excerpt.md
-- **Program compliance gate (conditional/weak)** — compliance occurs through meeting SDP requirements for eligibility/approval (not standalone penalties) — Example: chicago_il_sdp_bird_protection_excerpt.md
+- **Program compliance gate (conditional/weak) — applies only to projects in SDP universe; compliance is checked through SDP review/documentation/audit processes rather than citywide code penalties — Example: chicago_il_sdp_bird_protection_excerpt.md
