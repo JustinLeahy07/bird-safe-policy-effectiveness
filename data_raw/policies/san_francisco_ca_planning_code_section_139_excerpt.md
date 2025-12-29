@@ -10,6 +10,9 @@ https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_planning/0-0-0-186
 ORDINANCE EFFECTIVE DATE:
 2011-11-06
 
+DATE EXCERPTED:
+2025-12-28
+
 ---
 
 ## Applicability / Scope
