@@ -1,5 +1,5 @@
 # Policy Excerpt — San Francisco, CA
-## Standards for Bird-Safe Buildings (2011)
+## Standards for Bird-Safe Buildings (Planning Commission standards doc)
 
 SOURCE:
 san_francisco_ca_bird_safe_standards_2011.pdf
@@ -7,8 +7,12 @@ san_francisco_ca_bird_safe_standards_2011.pdf
 OFFICIAL URL:
 https://sfplanning.org/sites/default/files/documents/reports/bird_safe_bldgs/Standards%20for%20Bird%20Safe%20Buildings%20-%2011-30-11.pdf
 
-DATE EXCERPTED:
-2025-12-28
+ADOPTED (Planning Commission):
+2011-07-14
+
+DOCUMENT VERSION STAMP:
+v11.30.2011
+
 
 ---
 
