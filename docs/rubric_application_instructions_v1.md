@@ -27,6 +27,7 @@ Example justification:
 - If lighting is only “recommended” → score 1, not 2.
 - If enforcement exists only as an approval gate without penalties → score 1.
 - If you cannot locate the clause in the excerpt file → score 0 and flag it.
+- If a clause/standard exists only inside an optional strategy menu (points-based), cap the category score at 1 even if the technical definition is detailed.
 
 ## When to revise the rubric
 Only revise after pilot scoring reveals ambiguity. If you revise:
