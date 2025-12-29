@@ -7,8 +7,8 @@ san_francisco_ca_planning_code_section_139.txt
 OFFICIAL URL:
 https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_planning/0-0-0-18643
 
-DATE EXCERPTED:
-2025-12-28
+ORDINANCE EFFECTIVE DATE:
+2011-11-06
 
 ---
 
